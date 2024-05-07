@@ -1,4 +1,3 @@
-﻿using Tasks.BruteForce.ExaminationTest;
+﻿using Tasks.Greedy.ExaminationTest;
 
-var task = new Task8();
-task.FindIndexElement(7, 8233);
+Task10.Solve();
