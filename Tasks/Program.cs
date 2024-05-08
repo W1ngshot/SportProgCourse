@@ -1,3 +1,3 @@
-﻿using Tasks.Greedy.ExaminationTest;
+﻿using Tasks.Dynamic.PracticeTest;
 
-Task10.Solve();
+Task6.Solve();
