@@ -1,3 +1,3 @@
-﻿using Tasks.Dynamic.PracticeTest;
+﻿using Tasks.Dynamic.ExaminationTest;
 
-Task6.Solve();
+Task8.Solve();
