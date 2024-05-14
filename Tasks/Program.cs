@@ -1,3 +1,3 @@
-﻿using Tasks.Dynamic.ExaminationTest;
+﻿using Tasks.BitMasks.ExaminationTest;
 
-Task8.Solve();
+Task9.Solve();
